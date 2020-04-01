@@ -1,0 +1,10 @@
+
+@model WritingClub.Models.Prompt;
+
+        <h3>Title: @Model.Title</h3>
+        <h4>Author: @Model.AuthorName</h4>
+        <p>Content: @Model.Content</p>
+        <p>ID: @Model.PromptId</p>
+
+  <a href="/Prompts/Edit/@Model.PromptId"><p> Edit Prompt</p></a>
+  <a href="/Prompts/Index/"><p>Back to Index</p></a>

@@ -1,0 +1,15 @@
+@model WritingClub.Models.Prompt;
+
+<h2>Edit</h2>
+<form action="/Prompts/Details/@(Model.PromptId)" method="post">
+  <label for="name">Prompt's Title</label>
+  <input id="title" name="title" type="text" value="@(Model.Title)">
+  <label for="Authors Name">Author's Name</label>
+  <input id="Authors Name" name="Authors Name" type="text" value="@(Model.AuthorName)">
+  <label for="Content">Content</label>
+  <input id="Content" name="Cotent" type="text" value="@(Model.Content)">
+  <button type="submit">Update Prompt</button>
+</form>
+
+<a href="/Prompts/Details/@(Model.PromptId)"><p>Back to Details</p></a>
+<a href="/Prompts/Index"><p>Back Home</p></a>

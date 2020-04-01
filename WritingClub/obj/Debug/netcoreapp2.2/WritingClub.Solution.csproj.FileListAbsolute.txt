@@ -29,3 +29,5 @@ C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\b
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.Views.pdb
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.Views.pdb
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.csproj.CopyComplete
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Prompts\Details.g.cshtml.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Prompts\Edit.g.cshtml.cs

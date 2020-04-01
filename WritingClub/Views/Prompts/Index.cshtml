@@ -1,9 +1,9 @@
-@using WritingClub.Models; 
-@model List<WritingClub.Models.Prompt>;
+@using WritingClub.Models;
 
 <h1>All Prompts:</h1>
 
 @if (Model.Count == 0)
+
 {
   <h1>Sorry there are no prompts currently</h1>
 }
@@ -11,13 +11,26 @@
 <ol>
 
 @foreach (Prompt prompt in Model)
+
 {
     <ul>
         <li>ID: @prompt.PromptId</li>
-        <li>Name: @prompt.PromptName</li>
+        <li>Title: @prompt.Title</li>
         <li>Author: @prompt.AuthorName</li>
+        <li>Content: @prompt.Content</li>
     </ul>
     <a href="/Prompts/Details/@(prompt.PromptId)"><p>View Details</p></a>
     <br>
 }
 </ol>
+
+<h3>Create a New Prompt</h3>
+<form action="/Prompts" method="post">
+  <label for="title">Prompt's Title</label>
+  <input id="title" name="title" type="text">
+  <label for="Authors Name">Author's Name</label>
+  <input id="Authors Name" name="Authors Name" type="text">
+  <label for="Content">Content</label>
+  <input id="Content" name="Cotent" type="text">
+  <button type="submit">Update Prompt</button>
+</form>
