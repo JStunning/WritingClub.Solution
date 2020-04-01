@@ -4,15 +4,17 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using WritingClub.Models;
 using WritingClub.Solution.Models;
 
-namespace WritingClub.Solution.Controllers
+namespace WritingClub.Controllers
 {
     public class HomeController : Controller
     {
         public IActionResult Index()
         {
-            return View();
+            var allPrompts = Prompt.GetPrompts();
+            return View(allPrompts);
         }
 
         public IActionResult Privacy()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub.Solution.csproj": {}
+    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub\\WritingClub.Solution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub.Solution.csproj": {
+    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub\\WritingClub.Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub.Solution.csproj",
+        "projectUniqueName": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub\\WritingClub.Solution.csproj",
         "projectName": "WritingClub.Solution",
-        "projectPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub.Solution.csproj",
+        "projectPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub\\WritingClub.Solution.csproj",
         "packagesPath": "C:\\Users\\Stunning\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\obj\\",
+        "outputPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\WritingClub.Solution\\WritingClub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,11 +50,23 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
             }
           },
           "imports": [
