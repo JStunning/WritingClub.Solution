@@ -19,9 +19,9 @@ namespace WritingClub.Models
       var result = apiCallTask.Result;
 
       JArray jsonResponse = JsonConvert.DeserializeObject<JArray>(result);
-      List<Prompt> PromptList = JsonConvert.DeserializeObject<List<Prompt>>(jsonResponse.ToString());
+      List<Prompt> promptList = JsonConvert.DeserializeObject<List<Prompt>>(jsonResponse.ToString());
 
-      return PromptList;
+      return promptList;
     }
 
     public static Prompt GetDetails(int id)
@@ -38,6 +38,7 @@ namespace WritingClub.Models
     public static void Post(Prompt prompt)
     {
       string jsonPrompt = JsonConvert.SerializeObject(prompt);
+      Console.WriteLine("\n\n\n JSONPrompt \n\n\n" + jsonPrompt);
       var apiCallTask = ApiHelper.Post(jsonPrompt);
     }
 

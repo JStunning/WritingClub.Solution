@@ -1,3 +1,10 @@
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.deps.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.runtimeconfig.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.runtimeconfig.dev.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.pdb
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.Views.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.Views.pdb
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.csprojAssemblyReference.cache
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.csproj.CoreCompileInputs.cache
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.RazorAssemblyInfo.cache
@@ -9,6 +16,8 @@ C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\o
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.RazorCoreGenerate.cache
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Prompts\Details.g.cshtml.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Prompts\Edit.g.cshtml.cs
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Prompts\Index.g.cshtml.cs
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
@@ -18,16 +27,7 @@ C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\o
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.RazorTargetAssemblyInfo.cache
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.RazorTargetAssemblyInfo.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.Views.pdb
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.dll
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.pdb
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.deps.json
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.runtimeconfig.json
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.runtimeconfig.dev.json
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.dll
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.pdb
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.Views.dll
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\bin\Debug\netcoreapp2.2\WritingClub.Solution.Views.pdb
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.Views.pdb
 C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\WritingClub.Solution.csproj.CopyComplete
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Prompts\Details.g.cshtml.cs
-C:\Users\Stunning\Desktop\epicodusProjects\c#\WritingClub.Solution\WritingClub\obj\Debug\netcoreapp2.2\Razor\Views\Prompts\Edit.g.cshtml.cs
